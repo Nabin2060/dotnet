@@ -1,0 +1,14 @@
+D:\dotnet\b_class_object\b_object_data _member\bin\Debug\net9.0\b_object_data _member.exe
+D:\dotnet\b_class_object\b_object_data _member\bin\Debug\net9.0\b_object_data _member.deps.json
+D:\dotnet\b_class_object\b_object_data _member\bin\Debug\net9.0\b_object_data _member.runtimeconfig.json
+D:\dotnet\b_class_object\b_object_data _member\bin\Debug\net9.0\b_object_data _member.dll
+D:\dotnet\b_class_object\b_object_data _member\bin\Debug\net9.0\b_object_data _member.pdb
+D:\dotnet\b_class_object\b_object_data _member\obj\Debug\net9.0\b_object_data _member.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\b_class_object\b_object_data _member\obj\Debug\net9.0\b_object_data _member.AssemblyInfoInputs.cache
+D:\dotnet\b_class_object\b_object_data _member\obj\Debug\net9.0\b_object_data _member.AssemblyInfo.cs
+D:\dotnet\b_class_object\b_object_data _member\obj\Debug\net9.0\b_object_data _member.csproj.CoreCompileInputs.cache
+D:\dotnet\b_class_object\b_object_data _member\obj\Debug\net9.0\b_object_data _member.dll
+D:\dotnet\b_class_object\b_object_data _member\obj\Debug\net9.0\refint\b_object_data _member.dll
+D:\dotnet\b_class_object\b_object_data _member\obj\Debug\net9.0\b_object_data _member.pdb
+D:\dotnet\b_class_object\b_object_data _member\obj\Debug\net9.0\b_object_data _member.genruntimeconfig.cache
+D:\dotnet\b_class_object\b_object_data _member\obj\Debug\net9.0\ref\b_object_data _member.dll

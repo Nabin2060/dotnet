@@ -1,0 +1,14 @@
+D:\dotnet\a_Basic_IO\InputValueString\obj\Debug\net9.0\InputValueString.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\a_Basic_IO\InputValueString\obj\Debug\net9.0\InputValueString.AssemblyInfoInputs.cache
+D:\dotnet\a_Basic_IO\InputValueString\obj\Debug\net9.0\InputValueString.AssemblyInfo.cs
+D:\dotnet\a_Basic_IO\InputValueString\obj\Debug\net9.0\InputValueString.csproj.CoreCompileInputs.cache
+D:\dotnet\a_Basic_IO\InputValueString\bin\Debug\net9.0\InputValueString.exe
+D:\dotnet\a_Basic_IO\InputValueString\bin\Debug\net9.0\InputValueString.deps.json
+D:\dotnet\a_Basic_IO\InputValueString\bin\Debug\net9.0\InputValueString.runtimeconfig.json
+D:\dotnet\a_Basic_IO\InputValueString\bin\Debug\net9.0\InputValueString.dll
+D:\dotnet\a_Basic_IO\InputValueString\bin\Debug\net9.0\InputValueString.pdb
+D:\dotnet\a_Basic_IO\InputValueString\obj\Debug\net9.0\InputValueString.dll
+D:\dotnet\a_Basic_IO\InputValueString\obj\Debug\net9.0\refint\InputValueString.dll
+D:\dotnet\a_Basic_IO\InputValueString\obj\Debug\net9.0\InputValueString.pdb
+D:\dotnet\a_Basic_IO\InputValueString\obj\Debug\net9.0\InputValueString.genruntimeconfig.cache
+D:\dotnet\a_Basic_IO\InputValueString\obj\Debug\net9.0\ref\InputValueString.dll

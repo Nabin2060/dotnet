@@ -1,0 +1,14 @@
+D:\dotnet\a_Basic_IO\UserInput\bin\Debug\net9.0\UserInput.exe
+D:\dotnet\a_Basic_IO\UserInput\bin\Debug\net9.0\UserInput.deps.json
+D:\dotnet\a_Basic_IO\UserInput\bin\Debug\net9.0\UserInput.runtimeconfig.json
+D:\dotnet\a_Basic_IO\UserInput\bin\Debug\net9.0\UserInput.dll
+D:\dotnet\a_Basic_IO\UserInput\bin\Debug\net9.0\UserInput.pdb
+D:\dotnet\a_Basic_IO\UserInput\obj\Debug\net9.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\a_Basic_IO\UserInput\obj\Debug\net9.0\UserInput.AssemblyInfoInputs.cache
+D:\dotnet\a_Basic_IO\UserInput\obj\Debug\net9.0\UserInput.AssemblyInfo.cs
+D:\dotnet\a_Basic_IO\UserInput\obj\Debug\net9.0\UserInput.csproj.CoreCompileInputs.cache
+D:\dotnet\a_Basic_IO\UserInput\obj\Debug\net9.0\UserInput.dll
+D:\dotnet\a_Basic_IO\UserInput\obj\Debug\net9.0\refint\UserInput.dll
+D:\dotnet\a_Basic_IO\UserInput\obj\Debug\net9.0\UserInput.pdb
+D:\dotnet\a_Basic_IO\UserInput\obj\Debug\net9.0\UserInput.genruntimeconfig.cache
+D:\dotnet\a_Basic_IO\UserInput\obj\Debug\net9.0\ref\UserInput.dll

@@ -1,0 +1,14 @@
+D:\dotnet\a_Basic_IO\inuptvalue\obj\Debug\net9.0\inuptvalue.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\a_Basic_IO\inuptvalue\obj\Debug\net9.0\inuptvalue.AssemblyInfoInputs.cache
+D:\dotnet\a_Basic_IO\inuptvalue\obj\Debug\net9.0\inuptvalue.AssemblyInfo.cs
+D:\dotnet\a_Basic_IO\inuptvalue\obj\Debug\net9.0\inuptvalue.csproj.CoreCompileInputs.cache
+D:\dotnet\a_Basic_IO\inuptvalue\bin\Debug\net9.0\inuptvalue.exe
+D:\dotnet\a_Basic_IO\inuptvalue\bin\Debug\net9.0\inuptvalue.deps.json
+D:\dotnet\a_Basic_IO\inuptvalue\bin\Debug\net9.0\inuptvalue.runtimeconfig.json
+D:\dotnet\a_Basic_IO\inuptvalue\bin\Debug\net9.0\inuptvalue.dll
+D:\dotnet\a_Basic_IO\inuptvalue\bin\Debug\net9.0\inuptvalue.pdb
+D:\dotnet\a_Basic_IO\inuptvalue\obj\Debug\net9.0\inuptvalue.dll
+D:\dotnet\a_Basic_IO\inuptvalue\obj\Debug\net9.0\refint\inuptvalue.dll
+D:\dotnet\a_Basic_IO\inuptvalue\obj\Debug\net9.0\inuptvalue.pdb
+D:\dotnet\a_Basic_IO\inuptvalue\obj\Debug\net9.0\inuptvalue.genruntimeconfig.cache
+D:\dotnet\a_Basic_IO\inuptvalue\obj\Debug\net9.0\ref\inuptvalue.dll
