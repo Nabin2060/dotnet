@@ -1,0 +1,15 @@
+D:\dotnet\d_array\two_d_array\bin\Debug\net9.0\two_d_array.exe
+D:\dotnet\d_array\two_d_array\bin\Debug\net9.0\two_d_array.deps.json
+D:\dotnet\d_array\two_d_array\bin\Debug\net9.0\two_d_array.runtimeconfig.json
+D:\dotnet\d_array\two_d_array\bin\Debug\net9.0\two_d_array.dll
+D:\dotnet\d_array\two_d_array\bin\Debug\net9.0\two_d_array.pdb
+D:\dotnet\d_array\two_d_array\obj\Debug\net9.0\two_d_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\d_array\two_d_array\obj\Debug\net9.0\two_d_array.AssemblyInfoInputs.cache
+D:\dotnet\d_array\two_d_array\obj\Debug\net9.0\two_d_array.AssemblyInfo.cs
+D:\dotnet\d_array\two_d_array\obj\Debug\net9.0\two_d_array.csproj.CoreCompileInputs.cache
+D:\dotnet\d_array\two_d_array\obj\Debug\net9.0\two_d_array.sourcelink.json
+D:\dotnet\d_array\two_d_array\obj\Debug\net9.0\two_d_array.dll
+D:\dotnet\d_array\two_d_array\obj\Debug\net9.0\refint\two_d_array.dll
+D:\dotnet\d_array\two_d_array\obj\Debug\net9.0\two_d_array.pdb
+D:\dotnet\d_array\two_d_array\obj\Debug\net9.0\two_d_array.genruntimeconfig.cache
+D:\dotnet\d_array\two_d_array\obj\Debug\net9.0\ref\two_d_array.dll
