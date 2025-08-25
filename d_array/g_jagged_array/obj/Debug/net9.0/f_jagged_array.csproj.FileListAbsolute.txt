@@ -1,0 +1,15 @@
+D:\dotnet\d_array\f_jagged_array\bin\Debug\net9.0\f_jagged_array.exe
+D:\dotnet\d_array\f_jagged_array\bin\Debug\net9.0\f_jagged_array.deps.json
+D:\dotnet\d_array\f_jagged_array\bin\Debug\net9.0\f_jagged_array.runtimeconfig.json
+D:\dotnet\d_array\f_jagged_array\bin\Debug\net9.0\f_jagged_array.dll
+D:\dotnet\d_array\f_jagged_array\bin\Debug\net9.0\f_jagged_array.pdb
+D:\dotnet\d_array\f_jagged_array\obj\Debug\net9.0\f_jagged_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\d_array\f_jagged_array\obj\Debug\net9.0\f_jagged_array.AssemblyInfoInputs.cache
+D:\dotnet\d_array\f_jagged_array\obj\Debug\net9.0\f_jagged_array.AssemblyInfo.cs
+D:\dotnet\d_array\f_jagged_array\obj\Debug\net9.0\f_jagged_array.csproj.CoreCompileInputs.cache
+D:\dotnet\d_array\f_jagged_array\obj\Debug\net9.0\f_jagged_array.sourcelink.json
+D:\dotnet\d_array\f_jagged_array\obj\Debug\net9.0\f_jagged_array.dll
+D:\dotnet\d_array\f_jagged_array\obj\Debug\net9.0\refint\f_jagged_array.dll
+D:\dotnet\d_array\f_jagged_array\obj\Debug\net9.0\f_jagged_array.pdb
+D:\dotnet\d_array\f_jagged_array\obj\Debug\net9.0\f_jagged_array.genruntimeconfig.cache
+D:\dotnet\d_array\f_jagged_array\obj\Debug\net9.0\ref\f_jagged_array.dll
