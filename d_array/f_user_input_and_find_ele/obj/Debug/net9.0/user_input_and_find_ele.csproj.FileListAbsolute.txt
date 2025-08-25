@@ -1,0 +1,15 @@
+D:\dotnet\d_array\user_input_and_find_ele\bin\Debug\net9.0\user_input_and_find_ele.exe
+D:\dotnet\d_array\user_input_and_find_ele\bin\Debug\net9.0\user_input_and_find_ele.deps.json
+D:\dotnet\d_array\user_input_and_find_ele\bin\Debug\net9.0\user_input_and_find_ele.runtimeconfig.json
+D:\dotnet\d_array\user_input_and_find_ele\bin\Debug\net9.0\user_input_and_find_ele.dll
+D:\dotnet\d_array\user_input_and_find_ele\bin\Debug\net9.0\user_input_and_find_ele.pdb
+D:\dotnet\d_array\user_input_and_find_ele\obj\Debug\net9.0\user_input_and_find_ele.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\d_array\user_input_and_find_ele\obj\Debug\net9.0\user_input_and_find_ele.AssemblyInfoInputs.cache
+D:\dotnet\d_array\user_input_and_find_ele\obj\Debug\net9.0\user_input_and_find_ele.AssemblyInfo.cs
+D:\dotnet\d_array\user_input_and_find_ele\obj\Debug\net9.0\user_input_and_find_ele.csproj.CoreCompileInputs.cache
+D:\dotnet\d_array\user_input_and_find_ele\obj\Debug\net9.0\user_input_and_find_ele.sourcelink.json
+D:\dotnet\d_array\user_input_and_find_ele\obj\Debug\net9.0\user_input_and_find_ele.dll
+D:\dotnet\d_array\user_input_and_find_ele\obj\Debug\net9.0\refint\user_input_and_find_ele.dll
+D:\dotnet\d_array\user_input_and_find_ele\obj\Debug\net9.0\user_input_and_find_ele.pdb
+D:\dotnet\d_array\user_input_and_find_ele\obj\Debug\net9.0\user_input_and_find_ele.genruntimeconfig.cache
+D:\dotnet\d_array\user_input_and_find_ele\obj\Debug\net9.0\ref\user_input_and_find_ele.dll
