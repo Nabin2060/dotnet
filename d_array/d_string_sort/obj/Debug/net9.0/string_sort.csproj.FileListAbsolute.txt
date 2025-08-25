@@ -1,0 +1,15 @@
+D:\dotnet\d_array\string_sort\bin\Debug\net9.0\string_sort.exe
+D:\dotnet\d_array\string_sort\bin\Debug\net9.0\string_sort.deps.json
+D:\dotnet\d_array\string_sort\bin\Debug\net9.0\string_sort.runtimeconfig.json
+D:\dotnet\d_array\string_sort\bin\Debug\net9.0\string_sort.dll
+D:\dotnet\d_array\string_sort\bin\Debug\net9.0\string_sort.pdb
+D:\dotnet\d_array\string_sort\obj\Debug\net9.0\string_sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\d_array\string_sort\obj\Debug\net9.0\string_sort.AssemblyInfoInputs.cache
+D:\dotnet\d_array\string_sort\obj\Debug\net9.0\string_sort.AssemblyInfo.cs
+D:\dotnet\d_array\string_sort\obj\Debug\net9.0\string_sort.csproj.CoreCompileInputs.cache
+D:\dotnet\d_array\string_sort\obj\Debug\net9.0\string_sort.sourcelink.json
+D:\dotnet\d_array\string_sort\obj\Debug\net9.0\string_sort.dll
+D:\dotnet\d_array\string_sort\obj\Debug\net9.0\refint\string_sort.dll
+D:\dotnet\d_array\string_sort\obj\Debug\net9.0\string_sort.pdb
+D:\dotnet\d_array\string_sort\obj\Debug\net9.0\string_sort.genruntimeconfig.cache
+D:\dotnet\d_array\string_sort\obj\Debug\net9.0\ref\string_sort.dll
