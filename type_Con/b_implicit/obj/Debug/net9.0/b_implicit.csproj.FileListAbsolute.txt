@@ -1,0 +1,15 @@
+D:\dotnet\type_Con\b_implicit\bin\Debug\net9.0\b_implicit.exe
+D:\dotnet\type_Con\b_implicit\bin\Debug\net9.0\b_implicit.deps.json
+D:\dotnet\type_Con\b_implicit\bin\Debug\net9.0\b_implicit.runtimeconfig.json
+D:\dotnet\type_Con\b_implicit\bin\Debug\net9.0\b_implicit.dll
+D:\dotnet\type_Con\b_implicit\bin\Debug\net9.0\b_implicit.pdb
+D:\dotnet\type_Con\b_implicit\obj\Debug\net9.0\b_implicit.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\type_Con\b_implicit\obj\Debug\net9.0\b_implicit.AssemblyInfoInputs.cache
+D:\dotnet\type_Con\b_implicit\obj\Debug\net9.0\b_implicit.AssemblyInfo.cs
+D:\dotnet\type_Con\b_implicit\obj\Debug\net9.0\b_implicit.csproj.CoreCompileInputs.cache
+D:\dotnet\type_Con\b_implicit\obj\Debug\net9.0\b_implicit.sourcelink.json
+D:\dotnet\type_Con\b_implicit\obj\Debug\net9.0\b_implicit.dll
+D:\dotnet\type_Con\b_implicit\obj\Debug\net9.0\refint\b_implicit.dll
+D:\dotnet\type_Con\b_implicit\obj\Debug\net9.0\b_implicit.pdb
+D:\dotnet\type_Con\b_implicit\obj\Debug\net9.0\b_implicit.genruntimeconfig.cache
+D:\dotnet\type_Con\b_implicit\obj\Debug\net9.0\ref\b_implicit.dll
