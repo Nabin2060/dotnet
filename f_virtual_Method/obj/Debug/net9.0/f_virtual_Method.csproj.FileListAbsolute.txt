@@ -1,0 +1,15 @@
+D:\dotnet\f_virtual_Method\bin\Debug\net9.0\f_virtual_Method.exe
+D:\dotnet\f_virtual_Method\bin\Debug\net9.0\f_virtual_Method.deps.json
+D:\dotnet\f_virtual_Method\bin\Debug\net9.0\f_virtual_Method.runtimeconfig.json
+D:\dotnet\f_virtual_Method\bin\Debug\net9.0\f_virtual_Method.dll
+D:\dotnet\f_virtual_Method\bin\Debug\net9.0\f_virtual_Method.pdb
+D:\dotnet\f_virtual_Method\obj\Debug\net9.0\f_virtual_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\f_virtual_Method\obj\Debug\net9.0\f_virtual_Method.AssemblyInfoInputs.cache
+D:\dotnet\f_virtual_Method\obj\Debug\net9.0\f_virtual_Method.AssemblyInfo.cs
+D:\dotnet\f_virtual_Method\obj\Debug\net9.0\f_virtual_Method.csproj.CoreCompileInputs.cache
+D:\dotnet\f_virtual_Method\obj\Debug\net9.0\f_virtual_Method.sourcelink.json
+D:\dotnet\f_virtual_Method\obj\Debug\net9.0\f_virtual_Method.dll
+D:\dotnet\f_virtual_Method\obj\Debug\net9.0\refint\f_virtual_Method.dll
+D:\dotnet\f_virtual_Method\obj\Debug\net9.0\f_virtual_Method.pdb
+D:\dotnet\f_virtual_Method\obj\Debug\net9.0\f_virtual_Method.genruntimeconfig.cache
+D:\dotnet\f_virtual_Method\obj\Debug\net9.0\ref\f_virtual_Method.dll
