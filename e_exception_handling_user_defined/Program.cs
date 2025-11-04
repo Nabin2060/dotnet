@@ -1,6 +1,27 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+// class MyException : Exception
+// {
+//     public MyException(string str)
+//     {
+//         System.Console.WriteLine(str);
+//     }
+// }
 
+// class Program
+// {
+//     static void Main(string[] args )
+//         {
+//         try
+//         {
+//             throw new MyException("This is a user-defined exception");
+//         }
+//         catch (MyException ex)
+//         {
+//             System.Console.WriteLine("Caught user-defined exception: " + ex.Message);
+//         }
+//     }
+// }
 
 // voter age check example
 
