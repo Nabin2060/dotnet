@@ -4,7 +4,7 @@ abstract class HelloNp
 {
     public abstract void hi();
 }
-class kathmandu: HelloNp
+class Kathmandu: HelloNp
 {
     public override void hi()
     {
@@ -12,7 +12,7 @@ class kathmandu: HelloNp
     }
 }
 
-class Bhakt: kathmandu
+class Bhakt: Kathmandu
 {
     public override void hi()
     {
@@ -24,7 +24,7 @@ class Progras
     static void Main(string[] args)
     {
         HelloNp h;
-        h = new kathmandu();
+        h = new Kathmandu();
         h.hi();
         h = new Bhakt();
         h.hi();
