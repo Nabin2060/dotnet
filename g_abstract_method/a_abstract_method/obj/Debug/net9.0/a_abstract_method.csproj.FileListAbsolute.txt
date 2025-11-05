@@ -1,0 +1,15 @@
+D:\dotnet\g_abstract_method\a_abstract_method\bin\Debug\net9.0\a_abstract_method.exe
+D:\dotnet\g_abstract_method\a_abstract_method\bin\Debug\net9.0\a_abstract_method.deps.json
+D:\dotnet\g_abstract_method\a_abstract_method\bin\Debug\net9.0\a_abstract_method.runtimeconfig.json
+D:\dotnet\g_abstract_method\a_abstract_method\bin\Debug\net9.0\a_abstract_method.dll
+D:\dotnet\g_abstract_method\a_abstract_method\bin\Debug\net9.0\a_abstract_method.pdb
+D:\dotnet\g_abstract_method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\g_abstract_method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.AssemblyInfoInputs.cache
+D:\dotnet\g_abstract_method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.AssemblyInfo.cs
+D:\dotnet\g_abstract_method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.csproj.CoreCompileInputs.cache
+D:\dotnet\g_abstract_method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.sourcelink.json
+D:\dotnet\g_abstract_method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.dll
+D:\dotnet\g_abstract_method\a_abstract_method\obj\Debug\net9.0\refint\a_abstract_method.dll
+D:\dotnet\g_abstract_method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.pdb
+D:\dotnet\g_abstract_method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.genruntimeconfig.cache
+D:\dotnet\g_abstract_method\a_abstract_method\obj\Debug\net9.0\ref\a_abstract_method.dll
