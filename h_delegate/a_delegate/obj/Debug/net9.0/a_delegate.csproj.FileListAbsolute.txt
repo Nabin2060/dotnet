@@ -1,0 +1,15 @@
+D:\dotnet\h_delegate\a_delegate\bin\Debug\net9.0\a_delegate.exe
+D:\dotnet\h_delegate\a_delegate\bin\Debug\net9.0\a_delegate.deps.json
+D:\dotnet\h_delegate\a_delegate\bin\Debug\net9.0\a_delegate.runtimeconfig.json
+D:\dotnet\h_delegate\a_delegate\bin\Debug\net9.0\a_delegate.dll
+D:\dotnet\h_delegate\a_delegate\bin\Debug\net9.0\a_delegate.pdb
+D:\dotnet\h_delegate\a_delegate\obj\Debug\net9.0\a_delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\h_delegate\a_delegate\obj\Debug\net9.0\a_delegate.AssemblyInfoInputs.cache
+D:\dotnet\h_delegate\a_delegate\obj\Debug\net9.0\a_delegate.AssemblyInfo.cs
+D:\dotnet\h_delegate\a_delegate\obj\Debug\net9.0\a_delegate.csproj.CoreCompileInputs.cache
+D:\dotnet\h_delegate\a_delegate\obj\Debug\net9.0\a_delegate.sourcelink.json
+D:\dotnet\h_delegate\a_delegate\obj\Debug\net9.0\a_delegate.dll
+D:\dotnet\h_delegate\a_delegate\obj\Debug\net9.0\refint\a_delegate.dll
+D:\dotnet\h_delegate\a_delegate\obj\Debug\net9.0\a_delegate.pdb
+D:\dotnet\h_delegate\a_delegate\obj\Debug\net9.0\a_delegate.genruntimeconfig.cache
+D:\dotnet\h_delegate\a_delegate\obj\Debug\net9.0\ref\a_delegate.dll
