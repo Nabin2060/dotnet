@@ -1,0 +1,15 @@
+D:\dotnet\j-string_manuplication\h_string_clone\bin\Debug\net9.0\h_string_clone.exe
+D:\dotnet\j-string_manuplication\h_string_clone\bin\Debug\net9.0\h_string_clone.deps.json
+D:\dotnet\j-string_manuplication\h_string_clone\bin\Debug\net9.0\h_string_clone.runtimeconfig.json
+D:\dotnet\j-string_manuplication\h_string_clone\bin\Debug\net9.0\h_string_clone.dll
+D:\dotnet\j-string_manuplication\h_string_clone\bin\Debug\net9.0\h_string_clone.pdb
+D:\dotnet\j-string_manuplication\h_string_clone\obj\Debug\net9.0\h_string_clone.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\j-string_manuplication\h_string_clone\obj\Debug\net9.0\h_string_clone.AssemblyInfoInputs.cache
+D:\dotnet\j-string_manuplication\h_string_clone\obj\Debug\net9.0\h_string_clone.AssemblyInfo.cs
+D:\dotnet\j-string_manuplication\h_string_clone\obj\Debug\net9.0\h_string_clone.csproj.CoreCompileInputs.cache
+D:\dotnet\j-string_manuplication\h_string_clone\obj\Debug\net9.0\h_string_clone.sourcelink.json
+D:\dotnet\j-string_manuplication\h_string_clone\obj\Debug\net9.0\h_string_clone.dll
+D:\dotnet\j-string_manuplication\h_string_clone\obj\Debug\net9.0\refint\h_string_clone.dll
+D:\dotnet\j-string_manuplication\h_string_clone\obj\Debug\net9.0\h_string_clone.pdb
+D:\dotnet\j-string_manuplication\h_string_clone\obj\Debug\net9.0\h_string_clone.genruntimeconfig.cache
+D:\dotnet\j-string_manuplication\h_string_clone\obj\Debug\net9.0\ref\h_string_clone.dll

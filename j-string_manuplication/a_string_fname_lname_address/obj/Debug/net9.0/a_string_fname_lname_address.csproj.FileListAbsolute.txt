@@ -1,0 +1,15 @@
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\bin\Debug\net9.0\a_string_fname_lname_address.exe
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\bin\Debug\net9.0\a_string_fname_lname_address.deps.json
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\bin\Debug\net9.0\a_string_fname_lname_address.runtimeconfig.json
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\bin\Debug\net9.0\a_string_fname_lname_address.dll
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\bin\Debug\net9.0\a_string_fname_lname_address.pdb
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\obj\Debug\net9.0\a_string_fname_lname_address.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\obj\Debug\net9.0\a_string_fname_lname_address.AssemblyInfoInputs.cache
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\obj\Debug\net9.0\a_string_fname_lname_address.AssemblyInfo.cs
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\obj\Debug\net9.0\a_string_fname_lname_address.csproj.CoreCompileInputs.cache
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\obj\Debug\net9.0\a_string_fname_lname_address.sourcelink.json
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\obj\Debug\net9.0\a_string_fname_lname_address.dll
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\obj\Debug\net9.0\refint\a_string_fname_lname_address.dll
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\obj\Debug\net9.0\a_string_fname_lname_address.pdb
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\obj\Debug\net9.0\a_string_fname_lname_address.genruntimeconfig.cache
+D:\dotnet\j-string_manuplication\a_string_fname_lname_address\obj\Debug\net9.0\ref\a_string_fname_lname_address.dll

@@ -1,0 +1,15 @@
+D:\dotnet\j-string_manuplication\b_string_length\bin\Debug\net9.0\b_string_length.exe
+D:\dotnet\j-string_manuplication\b_string_length\bin\Debug\net9.0\b_string_length.deps.json
+D:\dotnet\j-string_manuplication\b_string_length\bin\Debug\net9.0\b_string_length.runtimeconfig.json
+D:\dotnet\j-string_manuplication\b_string_length\bin\Debug\net9.0\b_string_length.dll
+D:\dotnet\j-string_manuplication\b_string_length\bin\Debug\net9.0\b_string_length.pdb
+D:\dotnet\j-string_manuplication\b_string_length\obj\Debug\net9.0\b_string_length.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\j-string_manuplication\b_string_length\obj\Debug\net9.0\b_string_length.AssemblyInfoInputs.cache
+D:\dotnet\j-string_manuplication\b_string_length\obj\Debug\net9.0\b_string_length.AssemblyInfo.cs
+D:\dotnet\j-string_manuplication\b_string_length\obj\Debug\net9.0\b_string_length.csproj.CoreCompileInputs.cache
+D:\dotnet\j-string_manuplication\b_string_length\obj\Debug\net9.0\b_string_length.sourcelink.json
+D:\dotnet\j-string_manuplication\b_string_length\obj\Debug\net9.0\b_string_length.dll
+D:\dotnet\j-string_manuplication\b_string_length\obj\Debug\net9.0\refint\b_string_length.dll
+D:\dotnet\j-string_manuplication\b_string_length\obj\Debug\net9.0\b_string_length.pdb
+D:\dotnet\j-string_manuplication\b_string_length\obj\Debug\net9.0\b_string_length.genruntimeconfig.cache
+D:\dotnet\j-string_manuplication\b_string_length\obj\Debug\net9.0\ref\b_string_length.dll
