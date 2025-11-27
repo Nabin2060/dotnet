@@ -1,0 +1,15 @@
+D:\dotnet\h_delegate\c_delegate_eg\bin\Debug\net9.0\c_delegate_eg.exe
+D:\dotnet\h_delegate\c_delegate_eg\bin\Debug\net9.0\c_delegate_eg.deps.json
+D:\dotnet\h_delegate\c_delegate_eg\bin\Debug\net9.0\c_delegate_eg.runtimeconfig.json
+D:\dotnet\h_delegate\c_delegate_eg\bin\Debug\net9.0\c_delegate_eg.dll
+D:\dotnet\h_delegate\c_delegate_eg\bin\Debug\net9.0\c_delegate_eg.pdb
+D:\dotnet\h_delegate\c_delegate_eg\obj\Debug\net9.0\c_delegate_eg.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\h_delegate\c_delegate_eg\obj\Debug\net9.0\c_delegate_eg.AssemblyInfoInputs.cache
+D:\dotnet\h_delegate\c_delegate_eg\obj\Debug\net9.0\c_delegate_eg.AssemblyInfo.cs
+D:\dotnet\h_delegate\c_delegate_eg\obj\Debug\net9.0\c_delegate_eg.csproj.CoreCompileInputs.cache
+D:\dotnet\h_delegate\c_delegate_eg\obj\Debug\net9.0\c_delegate_eg.sourcelink.json
+D:\dotnet\h_delegate\c_delegate_eg\obj\Debug\net9.0\c_delegate_eg.dll
+D:\dotnet\h_delegate\c_delegate_eg\obj\Debug\net9.0\refint\c_delegate_eg.dll
+D:\dotnet\h_delegate\c_delegate_eg\obj\Debug\net9.0\c_delegate_eg.pdb
+D:\dotnet\h_delegate\c_delegate_eg\obj\Debug\net9.0\c_delegate_eg.genruntimeconfig.cache
+D:\dotnet\h_delegate\c_delegate_eg\obj\Debug\net9.0\ref\c_delegate_eg.dll
