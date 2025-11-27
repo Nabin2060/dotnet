@@ -1,0 +1,15 @@
+D:\dotnet\k_String_Builder\d_string_builder_insert\bin\Debug\net9.0\d_string_builder_insert.exe
+D:\dotnet\k_String_Builder\d_string_builder_insert\bin\Debug\net9.0\d_string_builder_insert.deps.json
+D:\dotnet\k_String_Builder\d_string_builder_insert\bin\Debug\net9.0\d_string_builder_insert.runtimeconfig.json
+D:\dotnet\k_String_Builder\d_string_builder_insert\bin\Debug\net9.0\d_string_builder_insert.dll
+D:\dotnet\k_String_Builder\d_string_builder_insert\bin\Debug\net9.0\d_string_builder_insert.pdb
+D:\dotnet\k_String_Builder\d_string_builder_insert\obj\Debug\net9.0\d_string_builder_insert.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\k_String_Builder\d_string_builder_insert\obj\Debug\net9.0\d_string_builder_insert.AssemblyInfoInputs.cache
+D:\dotnet\k_String_Builder\d_string_builder_insert\obj\Debug\net9.0\d_string_builder_insert.AssemblyInfo.cs
+D:\dotnet\k_String_Builder\d_string_builder_insert\obj\Debug\net9.0\d_string_builder_insert.csproj.CoreCompileInputs.cache
+D:\dotnet\k_String_Builder\d_string_builder_insert\obj\Debug\net9.0\d_string_builder_insert.sourcelink.json
+D:\dotnet\k_String_Builder\d_string_builder_insert\obj\Debug\net9.0\d_string_builder_insert.dll
+D:\dotnet\k_String_Builder\d_string_builder_insert\obj\Debug\net9.0\refint\d_string_builder_insert.dll
+D:\dotnet\k_String_Builder\d_string_builder_insert\obj\Debug\net9.0\d_string_builder_insert.pdb
+D:\dotnet\k_String_Builder\d_string_builder_insert\obj\Debug\net9.0\d_string_builder_insert.genruntimeconfig.cache
+D:\dotnet\k_String_Builder\d_string_builder_insert\obj\Debug\net9.0\ref\d_string_builder_insert.dll

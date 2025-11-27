@@ -1,0 +1,15 @@
+D:\dotnet\k_String_Builder\b_string_builder_append_format\bin\Debug\net9.0\b_string_builder_append_format.exe
+D:\dotnet\k_String_Builder\b_string_builder_append_format\bin\Debug\net9.0\b_string_builder_append_format.deps.json
+D:\dotnet\k_String_Builder\b_string_builder_append_format\bin\Debug\net9.0\b_string_builder_append_format.runtimeconfig.json
+D:\dotnet\k_String_Builder\b_string_builder_append_format\bin\Debug\net9.0\b_string_builder_append_format.dll
+D:\dotnet\k_String_Builder\b_string_builder_append_format\bin\Debug\net9.0\b_string_builder_append_format.pdb
+D:\dotnet\k_String_Builder\b_string_builder_append_format\obj\Debug\net9.0\b_string_builder_append_format.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\k_String_Builder\b_string_builder_append_format\obj\Debug\net9.0\b_string_builder_append_format.AssemblyInfoInputs.cache
+D:\dotnet\k_String_Builder\b_string_builder_append_format\obj\Debug\net9.0\b_string_builder_append_format.AssemblyInfo.cs
+D:\dotnet\k_String_Builder\b_string_builder_append_format\obj\Debug\net9.0\b_string_builder_append_format.csproj.CoreCompileInputs.cache
+D:\dotnet\k_String_Builder\b_string_builder_append_format\obj\Debug\net9.0\b_string_builder_append_format.sourcelink.json
+D:\dotnet\k_String_Builder\b_string_builder_append_format\obj\Debug\net9.0\b_string_builder_append_format.dll
+D:\dotnet\k_String_Builder\b_string_builder_append_format\obj\Debug\net9.0\refint\b_string_builder_append_format.dll
+D:\dotnet\k_String_Builder\b_string_builder_append_format\obj\Debug\net9.0\b_string_builder_append_format.pdb
+D:\dotnet\k_String_Builder\b_string_builder_append_format\obj\Debug\net9.0\b_string_builder_append_format.genruntimeconfig.cache
+D:\dotnet\k_String_Builder\b_string_builder_append_format\obj\Debug\net9.0\ref\b_string_builder_append_format.dll

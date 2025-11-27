@@ -1,0 +1,15 @@
+D:\dotnet\k_String_Builder\e_string_builder_remove\bin\Debug\net9.0\e_string_builder_remove.exe
+D:\dotnet\k_String_Builder\e_string_builder_remove\bin\Debug\net9.0\e_string_builder_remove.deps.json
+D:\dotnet\k_String_Builder\e_string_builder_remove\bin\Debug\net9.0\e_string_builder_remove.runtimeconfig.json
+D:\dotnet\k_String_Builder\e_string_builder_remove\bin\Debug\net9.0\e_string_builder_remove.dll
+D:\dotnet\k_String_Builder\e_string_builder_remove\bin\Debug\net9.0\e_string_builder_remove.pdb
+D:\dotnet\k_String_Builder\e_string_builder_remove\obj\Debug\net9.0\e_string_builder_remove.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\k_String_Builder\e_string_builder_remove\obj\Debug\net9.0\e_string_builder_remove.AssemblyInfoInputs.cache
+D:\dotnet\k_String_Builder\e_string_builder_remove\obj\Debug\net9.0\e_string_builder_remove.AssemblyInfo.cs
+D:\dotnet\k_String_Builder\e_string_builder_remove\obj\Debug\net9.0\e_string_builder_remove.csproj.CoreCompileInputs.cache
+D:\dotnet\k_String_Builder\e_string_builder_remove\obj\Debug\net9.0\e_string_builder_remove.sourcelink.json
+D:\dotnet\k_String_Builder\e_string_builder_remove\obj\Debug\net9.0\e_string_builder_remove.dll
+D:\dotnet\k_String_Builder\e_string_builder_remove\obj\Debug\net9.0\refint\e_string_builder_remove.dll
+D:\dotnet\k_String_Builder\e_string_builder_remove\obj\Debug\net9.0\e_string_builder_remove.pdb
+D:\dotnet\k_String_Builder\e_string_builder_remove\obj\Debug\net9.0\e_string_builder_remove.genruntimeconfig.cache
+D:\dotnet\k_String_Builder\e_string_builder_remove\obj\Debug\net9.0\ref\e_string_builder_remove.dll

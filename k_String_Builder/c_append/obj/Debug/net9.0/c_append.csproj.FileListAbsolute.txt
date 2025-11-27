@@ -1,0 +1,15 @@
+D:\dotnet\k_String_Builder\c_append\bin\Debug\net9.0\c_append.exe
+D:\dotnet\k_String_Builder\c_append\bin\Debug\net9.0\c_append.deps.json
+D:\dotnet\k_String_Builder\c_append\bin\Debug\net9.0\c_append.runtimeconfig.json
+D:\dotnet\k_String_Builder\c_append\bin\Debug\net9.0\c_append.dll
+D:\dotnet\k_String_Builder\c_append\bin\Debug\net9.0\c_append.pdb
+D:\dotnet\k_String_Builder\c_append\obj\Debug\net9.0\c_append.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\k_String_Builder\c_append\obj\Debug\net9.0\c_append.AssemblyInfoInputs.cache
+D:\dotnet\k_String_Builder\c_append\obj\Debug\net9.0\c_append.AssemblyInfo.cs
+D:\dotnet\k_String_Builder\c_append\obj\Debug\net9.0\c_append.csproj.CoreCompileInputs.cache
+D:\dotnet\k_String_Builder\c_append\obj\Debug\net9.0\c_append.sourcelink.json
+D:\dotnet\k_String_Builder\c_append\obj\Debug\net9.0\c_append.dll
+D:\dotnet\k_String_Builder\c_append\obj\Debug\net9.0\refint\c_append.dll
+D:\dotnet\k_String_Builder\c_append\obj\Debug\net9.0\c_append.pdb
+D:\dotnet\k_String_Builder\c_append\obj\Debug\net9.0\c_append.genruntimeconfig.cache
+D:\dotnet\k_String_Builder\c_append\obj\Debug\net9.0\ref\c_append.dll

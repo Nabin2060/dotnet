@@ -1,0 +1,15 @@
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\bin\Debug\net9.0\f_strinng_builder_replace.exe
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\bin\Debug\net9.0\f_strinng_builder_replace.deps.json
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\bin\Debug\net9.0\f_strinng_builder_replace.runtimeconfig.json
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\bin\Debug\net9.0\f_strinng_builder_replace.dll
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\bin\Debug\net9.0\f_strinng_builder_replace.pdb
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\obj\Debug\net9.0\f_strinng_builder_replace.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\obj\Debug\net9.0\f_strinng_builder_replace.AssemblyInfoInputs.cache
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\obj\Debug\net9.0\f_strinng_builder_replace.AssemblyInfo.cs
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\obj\Debug\net9.0\f_strinng_builder_replace.csproj.CoreCompileInputs.cache
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\obj\Debug\net9.0\f_strinng_builder_replace.sourcelink.json
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\obj\Debug\net9.0\f_strinng_builder_replace.dll
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\obj\Debug\net9.0\refint\f_strinng_builder_replace.dll
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\obj\Debug\net9.0\f_strinng_builder_replace.pdb
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\obj\Debug\net9.0\f_strinng_builder_replace.genruntimeconfig.cache
+D:\dotnet\k_String_Builder\f_strinng_builder_replace\obj\Debug\net9.0\ref\f_strinng_builder_replace.dll
